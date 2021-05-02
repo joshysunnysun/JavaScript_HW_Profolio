@@ -1,0 +1,14 @@
+div {
+    width: 40%;
+    height: 200px;
+    background-color: darkgrey;
+    cursor: url(man.png),auto;
+}
+p{
+    height: 30px;
+    font-size: large;
+    background-color: plum;
+}
+h1 {
+    background-color: tan;
+}
